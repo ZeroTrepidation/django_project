@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\blog\templates\blog\post_detail.html">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\blog\views.py">
           <value>
             <Attribute>
