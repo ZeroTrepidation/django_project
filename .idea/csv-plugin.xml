@@ -31,6 +31,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\django_project\urls.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\users\templates\users\register.html">
+          <value>
+            <Attribute>
+              <option name="separator" value="|" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
